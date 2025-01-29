@@ -12,6 +12,6 @@ st.title("Hello world")
 st.title("dont come")
 st.write("this is my first name")
 
-number  = st.slider ("Pick a number", 2, 200)
+number  = st.slider ("Pick a number", 20, 200)
 
 st.write(f"you picked {number}")
